@@ -1,4 +1,4 @@
-package za.co.mkhizenj.digitalpservice;
+package za.co.digitalplatoon.invoiceservice.invoice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
